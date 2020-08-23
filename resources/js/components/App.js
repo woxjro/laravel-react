@@ -15,7 +15,7 @@ export default function App() {
                         <div className="card">
                             <div className="card-header">react-router-dom</div>
                             <div className="card-body">
-                                <div className="nav">
+                                <div className="column">
                                     <Link to="./about">
                                         <li>about</li>
                                     </Link>
